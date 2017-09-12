@@ -1,5 +1,5 @@
 FROM       ubuntu:16.04
-MAINTAINER Aleksandar Diklic "https://github.com/AkelMaister"
+MAINTAINER Bogdan Yaskov "https://github.com/AkelMaister"
 
 RUN apt-get update
 RUN apt-get upgrade
